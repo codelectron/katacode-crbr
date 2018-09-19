@@ -1,10 +1,12 @@
 {
   "title": "Getting started with Crossbar.io",
   "description": "This is a demo to see how katacoda can be used for showcasing crossbar",
+  "difficulty" : "beginner",
   "details": {
     "steps": [
       {
-        "title": "Step 1",
+        "title": "Step 1 Getting sources from git",
+	"code": "step1.sh",
         "text": "step1.md"
       },
       {
