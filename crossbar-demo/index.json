@@ -15,7 +15,13 @@
       },
       {
         "title": "Step 3",
+	"code": "step1.sh",
         "text": "step3.md"
+      },
+      {
+        "title": "Step 4",
+	"code": "step1.sh",
+        "text": "step4.md"
       }
     ],
     "intro": {
