@@ -10,23 +10,23 @@
         "text": "step1.md"
       },
       {
-        "title": "Step 2",
+        "title": "Start Crossbar.io",
         "text": "step2.md"
       },
       {
-        "title": "Step 3",
+        "title": "Start Publisher",
         "text": "step3.md"
       },
       {
-        "title": "Step 4",
+        "title": "Start Subscriber",
         "text": "step4.md"
       },
       {
-        "title": "Step 5",
+        "title": "Start RPC Callee",
         "text": "step5.md"
       },
       {
-        "title": "Step 6",
+        "title": "Start RPC Caller",
         "text": "step6.md"
       }
 
