@@ -1,3 +1,5 @@
+https://[[HOST_SUBDOMAIN]]-8080-[[KATACODA_HOST]].environments.katacoda.com/
+
 # Open new terminal 
 Lets start a new terminal `ssh root@host01`{{execute T2}} 
 
