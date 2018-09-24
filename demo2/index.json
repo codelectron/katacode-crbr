@@ -36,6 +36,18 @@
     },
     "finish": {
       "text": "finish.md"
+    },
+    "assets": {
+      "host01": [
+        {
+          "file": "autobahn.min.js",
+          "target": "~/"
+        },
+        {
+          "file": "index.html",
+          "target": "~/"
+        }
+      ]
     }
   },
   "environment": {
