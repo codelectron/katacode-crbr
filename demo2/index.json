@@ -55,6 +55,6 @@
     "dashboards": [{ "name": "Browser", "port": 80, "host": "host01" }]
   },
   "backend": {
-    "imageid": "docker"
+    "imageid": "ubuntu"
   }
 }
