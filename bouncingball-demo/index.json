@@ -7,14 +7,6 @@
       {
         "title": "Step 1 Getting sources from git",
         "text": "step1.md"
-      },
-      {
-        "title": "Start Crossbar.io",
-        "text": "step2.md"
-      },
-      {
-        "title": "Start Publisher",
-        "text": "step3.md"
       }
     ],
     "intro": {
@@ -25,8 +17,6 @@
     }
   },
   "environment": {
-  "showdashboard": false,
-  "dashboards": [{"name": "Display 80", "port": 80}, {"name": "Display 8080", "port": 8080}],
   "uilayout": "terminal-terminal"
   },
   "backend": {
