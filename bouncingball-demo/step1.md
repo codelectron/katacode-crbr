@@ -8,6 +8,11 @@ Execute `git clone https://github.com/oddjobz/crossbar_ball_demo`{{execute}} to 
 # Split 
 Execute `tmux`{{execute}} and change to the getting-started directory.
 
+# Split 
+Execute `tmux`{{execute}} and change to the getting-started directory.
+
+tmux split-window
+
 # Change directory
 Execute `cd crossbar-examples/getting-started`{{execute}} and change to the getting-started directory.
 
