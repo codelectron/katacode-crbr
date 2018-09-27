@@ -1,2 +1,1 @@
-ssh root@host01
-clear
+apt-get install tmux 
