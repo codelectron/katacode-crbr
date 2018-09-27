@@ -6,6 +6,7 @@
     "steps": [
       {
         "title": "Step 1 Getting sources from git",
+        "code": "step1.sh",
         "text": "step1.md"
       }
     ],
