@@ -1,5 +1,5 @@
 # Split 
-Execute `tmux && tmux  split-window`{{execute}} and change to the getting-started directory.
+Execute `tmux`{{execute}} and change to the getting-started directory.
 
 # Split 
 Execute `tmux  split-window`{{execute}} and change to the getting-started directory.
