@@ -1,8 +1,8 @@
 # Start the Tmux 
-Execute `tmux`{{execute}} and change to the getting-started directory.
+Execute `tmux`{{execute}} to start the terminal multiplexer.
 
 # Split the window 
-Execute `tmux  split-window`{{execute}} and change to the getting-started directory.
+Execute `tmux  split-window`{{execute}} and split the terminal in to 2 terminal.
 
 # Start Bouncing ball demo in window 1
 
