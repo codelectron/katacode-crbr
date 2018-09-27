@@ -1,2 +1,3 @@
-ssh root@host01
+apt-get install tmux -y -q
 clear
+tmux split-window
