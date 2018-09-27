@@ -17,6 +17,10 @@ Execute `tmux`{{execute}} and change to the getting-started directory.
 
 
 # Change directory
+Execute `tmux select-pane -U`{{execute}} and change to the getting-started directory.
+
+
+# Change directory
 Execute `cd crossbar-examples/getting-started`{{execute}} and change to the getting-started directory.
 
 # List the files
