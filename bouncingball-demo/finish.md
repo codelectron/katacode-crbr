@@ -1,1 +1,1 @@
-Hurray, You have successfully completed the Crossbar.io and Autobahn basic tutorials.
+Hurray, You have successfully run the bouncing ball demo using Crossbar.io and Autobahn Pyhton.
