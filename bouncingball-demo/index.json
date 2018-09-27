@@ -17,7 +17,7 @@
     }
   },
   "environment": {
-  "uilayout": "terminal-terminal-v2"
+  "uilayout": "terminal-terminal-v1"
   },
   "backend": {
     "imageid": "ubuntu"
