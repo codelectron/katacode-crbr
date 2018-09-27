@@ -1,10 +1,6 @@
-# Open new terminal 
-
 # Change directory
-Execute `cd crossbar-examples/getting-started`{{execute}} to change to the getting-started directory.
+Execute `tmux select-pane -U`{{execute}} and change to the getting-started directory.
 
-# T1
-Execute ` docker run -v $PWD:/app -e CBURL="ws://crossbar:8080/ws" -e CBREALM="realm1" --link=crossbar --rm -it crossbario/autobahn-python:cpy3 python /app/ball.py`{execute T2}} to start the ball
+# Start Bouncing ball demo in window 2
 
-#T2
-Execute ` docker run -v $PWD:/app -e CBURL="ws://crossbar:8080/ws" -e CBREALM="realm1" --link=crossbar --rm -it crossbario/autobahn-python:cpy3 python /app/ball.py`{execute T3}} to start the ball
+Execute `  docker run -v $PWD/crossbar_ball_demo:/app -e CBURL="ws://crossbar:8080/ws" -e CBREALM="realm1" --link=crossbar --rm -it crossbario/autobahn-python:cpy3 python ball.py --join=0:U:1`{{execute}} to run Crossbar.io in dockers with configuration mounted from getting-started folder.
