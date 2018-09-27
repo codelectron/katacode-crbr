@@ -8,7 +8,11 @@
         "title": "Step 1 Getting sources from git",
         "code": "step1.sh",
         "text": "step1.md"
-      }
+      },
+      {
+        "title": "Step 2 Getting sources from git",
+        "text": "step2.md"
+      }      
     ],
     "intro": {      
       "text": "intro.md",
