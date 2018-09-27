@@ -1,7 +1,7 @@
-# Split 
+# Start the Tmux 
 Execute `tmux`{{execute}} and change to the getting-started directory.
 
-# Split 
+# Split the window 
 Execute `tmux  split-window`{{execute}} and change to the getting-started directory.
 
 # Start Bouncing ball demo in window 1
