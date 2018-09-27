@@ -12,5 +12,5 @@ Execute `cd crossbar-examples/getting-started`{{execute}} and change to the gett
 The `find .`{{execute}} will list all the files in the folder.
 
 # Open terminal
-ssh root@host01{{execute T2}}
+Command `ssh root@host01`{{execute T2}}
 
