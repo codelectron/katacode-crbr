@@ -1,2 +1,2 @@
-apt-get install tmux -y  --quiet && clear
+apt-get install tmux -y  -qq && clear
 
