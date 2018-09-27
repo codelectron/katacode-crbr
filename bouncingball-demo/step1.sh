@@ -1,3 +1,1 @@
-apt-get install tmux -y 
-clear
-tmux split-window
+apt-get install tmux -y  &&  tmux split-window
