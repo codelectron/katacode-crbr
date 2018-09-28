@@ -1,2 +1,2 @@
 # Increase number of balls in window 2
-Lets start a new terminal `b`{{execute}}
+Click here to increase more balls in to the demo `b`{{execute}}
