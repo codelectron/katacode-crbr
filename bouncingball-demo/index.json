@@ -20,7 +20,11 @@
       {
         "title": "Start Bouncing ball in window 2",
         "text": "step4.md"
-      }                
+      },
+      {
+        "title": "Increase the balls  in window 2",
+        "text": "step5.md"
+      }                    
     ],
     "intro": {      
       "text": "intro.md",
