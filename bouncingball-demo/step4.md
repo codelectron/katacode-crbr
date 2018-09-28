@@ -1,8 +1,3 @@
-# Open new terminal 
-Lets start a new terminal `ssh root@host01`{{execute T3}} 
+# Start Bouncing ball demo in window 2
 
-# Change directory
-Execute `cd crossbar-examples/getting-started`{{execute}} will change to the getting-started directory.
-
-# Start Autobahn Python Subscriber in Dockers 
-Execute ` docker run -v $PWD:/app -e CBURL="ws://crossbar:8080/ws" -e CBREALM="realm1" --link=crossbar --rm -it crossbario/autobahn-python:cpy3 python /app/1.hello-world/client_component_subscribe.py`{{execute T3}} to run Autobahn Python subscriber client in dockers.
+Execute ` docker run -v $PWD/crossbar_ball_demo:/app -e CBURL="ws://crossbar:8080/ws" -e CBREALM="realm1" --link=crossbar --rm -it crossbario/autobahn-python:cpy3 python ball.py --node=0 --join=1:D:0`{{execute}} to start the bouncing ball demo in window 2 with configuration mounted from crossbar_ball_demo folder.
